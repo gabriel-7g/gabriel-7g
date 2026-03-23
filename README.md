@@ -1,4 +1,17 @@
-## Gabriel Chaves 👋
+![cup-hot](https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/d18f7b26-42dc-41af-856d-b9fc576cf186)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=150&section=header&text=Gabriel+Chaves&fontSize=28&fontColor=00000"/>
+
+<div align="left">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=Desenvolvedor+Front-End)](https://git.io/typing-svg) <br><hr>
+
+<h1>Skills</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)<br>
+
+
+
+Contact:<br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/gabriel-chaves79/)
 
 <!--
 **gabriel-7g/gabriel-7g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
