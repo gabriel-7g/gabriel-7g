@@ -17,7 +17,7 @@
 
 
 
-Contact:<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&color=39FF14&left=true&vCenter=true&width=1500&lines=Contact)](https://git.io/typing-svg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/gabriel-chaves79/)
 
 <!--
