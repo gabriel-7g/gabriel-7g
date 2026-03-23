@@ -1,5 +1,4 @@
-![cup-hot](https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/d18f7b26-42dc-41af-856d-b9fc576cf186)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=150&section=header&text=Gabriel+Chaves&fontSize=28&fontColor=BC13FE"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=150&section=header&text=Gabriel+Chaves&fontSize=28&fontColor=00000"/>
 
 <div align="left">
 
