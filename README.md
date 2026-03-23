@@ -1,13 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gabriel%20Chaves&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Desenvolvedor%20Front%20end&descSize=18&descAlignY=55&textBg=false"/>
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/gabriel-7g">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gabriel-7g&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="gabriel-7g's GitHub Stats" />
-  </a>
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
