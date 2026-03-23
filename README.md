@@ -1,12 +1,20 @@
-![cup-hot](https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/d18f7b26-42dc-41af-856d-b9fc576cf186)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400d3&height=150&section=header&text=Gabriel+Chaves&fontSize=28&fontColor=00000"/>
+![cup-hot](https://github.com/GiovanniMatos/GiovanniMatos/assets/99231397/d18f7b26-42dc-41af-856d-b9fc576cf186)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=150&section=header&text=Gabriel+Chaves&fontSize=28&fontColor=BC13FE"/>
 
 <div align="left">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=39FF14&left=true&vCenter=true&width=1500&lines=Software+Developer;Computer+Science+Student;Front-End+Engineer)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&color=39FF14&left=true&vCenter=true&width=1500&lines=Skills)](https://git.io/typing-svg)
+
+
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)<br>
+<p><b>Frameworks<b> </p>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&duration=4000&color=3B95F7&left=true&vCenter=true&width=1500&lines=Desenvolvedor+Front-End)](https://git.io/typing-svg) <br><hr>
-
-<h1>Skills</h1>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=jquery,vuejs)](https://skillicons.dev)<br>
 
 
 
