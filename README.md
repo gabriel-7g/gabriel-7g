@@ -11,7 +11,7 @@
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)<br>
-<p><b>Frameworks<b> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=39&color=39FF14&left=true&vCenter=true&width=1500&lines=Frameworks)](https://git.io/typing-svg)
   
 [![My Skills](https://skillicons.dev/icons?i=jquery,vuejs)](https://skillicons.dev)<br>
 
