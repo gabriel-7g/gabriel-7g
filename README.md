@@ -18,7 +18,6 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="48" height="48" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" /></td>
   </tr>
 </table>
 
@@ -27,6 +26,7 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" /></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="48" height="48" /></td>
   </tr>
 </table>
 
