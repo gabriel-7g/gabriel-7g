@@ -26,6 +26,7 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="48" height="48" /></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></td>
   </tr>
 </table>
 
