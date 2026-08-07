@@ -7,7 +7,7 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="48" height="48" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TS" width="48" height="48" /></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg" alt="Python" width="48" height="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Python" width="48" height="48" /></td>
   </tr>
 </table>
 
